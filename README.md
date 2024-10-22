@@ -10,7 +10,6 @@
 
 ## 如有问题或疑问，请通过电子邮件或 QQ 联系我！
 
-##### If you have any questions or concerns, please contact me via email or QQ!
+##### If you have any questions or concerns, please contact me via email!
 
 E-mail：matsonga@163.com
-QQ：937496430
